@@ -1,10 +1,12 @@
-import { ScrollView, View } from "react-native";
+import { ScrollView, Text, View } from "react-native";
 
 export default function Explore() {
   return (
     <>
-      <ScrollView>
-        <View>Explore Page</View>
+      <ScrollView className="prose">
+        <View>
+          <Text>Welcome, Explore Page.</Text>
+        </View>
       </ScrollView>
     </>
   );
