@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,10 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# ParkSmart
+
+Was a student-led capstone project by Chris, Justin, and Liza. The goal was to transform Humber College's parking system, enhancing its efficiency by turning the self-service stations into an mobile webapp and eliminating the need processes for using self-service at Humbers modern campus parking experience.
+
+My goal is to learn the basics of React Native and build this application on mobile devices. To create real-world samples people can use on their phone. 
+>>>>>>> d52c1f7337cdb8b9aa2041ccf278ec5dacac5ffc

@@ -4,6 +4,7 @@
     "slug": "ParkSmart",
     "version": "1.0.0",
     "orientation": "portrait",
+<<<<<<< HEAD
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
@@ -12,16 +13,33 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+=======
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+>>>>>>> d52c1f7337cdb8b9aa2041ccf278ec5dacac5ffc
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
+<<<<<<< HEAD
         "foregroundImage": "./assets/images/adaptive-icon.png",
+=======
+        "foregroundImage": "./assets/adaptive-icon.png",
+>>>>>>> d52c1f7337cdb8b9aa2041ccf278ec5dacac5ffc
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
+<<<<<<< HEAD
       "bundler": "metro",
       "output": "static",
       "favicon": "./assets/images/favicon.png"
@@ -31,6 +49,9 @@
     ],
     "experiments": {
       "typedRoutes": true
+=======
+      "favicon": "./assets/favicon.png"
+>>>>>>> d52c1f7337cdb8b9aa2041ccf278ec5dacac5ffc
     }
   }
 }
